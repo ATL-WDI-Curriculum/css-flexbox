@@ -27,18 +27,18 @@ Here's some starter code:
 ```
 
 ```CSS
-html{
-  height:100%;
+html {
+  height: 100%;
 }
-body{
-  min-height:100%;
-  background-color:#ccc;
-  margin:0 auto;
+body {
+  min-height: 100%;
+  background-color: #ccc;
+  margin: 0 auto;
 }
-div{
-  width:100px;
-  height:100px;
-  outline:1px solid red;
+div {
+  width: 100px;
+  height: 100px;
+  outline: 1px solid red;
 }
 ```
 
@@ -47,28 +47,28 @@ This problem has been the laughingstock of CSS for years: how can something so o
 ### Flexbox to the rescue
 
 ```CSS
-html{
-  height:100%;
+html {
+  height: 100%;
 }
-body{
-  min-height:100%;
-  background-color:#ccc;
-  margin:0 auto;
-  display:flex;
-  flex-direction:row;
-  justify-content:center;
-  align-items:center;
+body {
+  min-height: 100%;
+  background-color: #ccc;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
-div{
-  width:100px;
-  height:100px;
-  outline:1px solid red;
+div {
+  width: 100px;
+  height: 100px;
+  outline: 1px solid red;
 }
 ```
 
 ## How it works
 
-When you declare `display:flex` on a container, it becomes a **flex container**.
+When you declare `display: flex` on a container, it becomes a **flex container**.
 
 First, you use `flex-direction` to indicate whether you want the items in the container -- the **flex items** -- to "read" left-to-right (`row`), right-to-left (`row-reverse`), top-to-bottom (`column`), **or** bottom-to-top (`column-reverse`).
 
@@ -97,18 +97,18 @@ Starter code:
 ```
 
 ```CSS
-html{
-  height:100%;
+html {
+  height: 100%;
 }
-body{
-  min-height:100%;
-  background-color:#ccc;
-  margin:0 auto;
+body {
+  min-height: 100%;
+  background-color: #ccc;
+  margin: 0 auto;
 }
-footer{
-  width:100%;
-  height:50px;
-  background-color:#888;
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #888;
 }
 ```
 
@@ -117,20 +117,20 @@ Making the footer lie against the bottom of my *screen* is pretty easy: I can ju
 ### Flexbox to the rescue
 
 ```CSS
-html{
-  height:100%;
+html {
+  height: 100%;
 }
-body{
-  min-height:100%;
-  background-color:#ccc;
-  margin:0 auto;
-  display:flex;
-  flex-direction:column;
+body { 
+  min-height: 100%;
+  background-color: #ccc;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
 }
-footer{
-  width:100%;
-  height:50px;
-  background-color:#888;
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #888;
 }
 ```
 
@@ -184,12 +184,12 @@ Before flexbox, this involved a lot of pushing and shoving with dimensions and p
 With flexbox, just change the `flex-direction` for smaller screen sizes, and you're pretty much done!
 
 ```
-body{
-  display:flex;
-  flex-direction:row;
+body {
+  display: flex;
+  flex-direction: row;
 }
-@media screen and (max-width:480px){
-  body{
+@media screen and (max-width:480px) {
+  body {
     flex-direction: column;
   }
 }
