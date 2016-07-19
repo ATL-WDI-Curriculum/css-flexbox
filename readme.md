@@ -1,11 +1,11 @@
-# Flex Box
+# Flexbox
 
 Screencasts
 - [Part 1](http://youtu.be/wBlBTO7mqoI)
 - [Part 2](http://youtu.be/_I58MXDnBEs)
 
 ## Learning objectives
-- Give an example of a problem solved by Flex Box
+- Give an example of a problem solved by flexbox
 - Given a desktop-first webpage, make it look presentable on mobile devices (and vice-versa) with as little CSS as possible
 - Contrast Flex Containers and Flex Items
 - Draw a diagram that includes: Flex Container, Flex Item, Main and Cross Axes, Starts and Ends for all Axes, and Main and Cross Sizes
@@ -44,7 +44,7 @@ div{
 
 This problem has been the laughingstock of CSS for years: how can something so obvious be so difficult to accomplish?
 
-### Flex-box to the rescue
+### Flexbox to the rescue
 
 ```CSS
 html{
@@ -114,7 +114,7 @@ footer{
 
 Making the footer lie against the bottom of my *screen* is pretty easy: I can just use absolute or fixed positioning. However, using absolute or fixed positioning means everything else on the page ignores my footer. The text of my `main` could easily run under my footer. I want the text of my `main` to "push" my footer to the end of the page.
 
-### Flex-box to the rescue
+### Flexbox to the rescue
 
 ```CSS
 html{
@@ -145,9 +145,9 @@ Four more terms: the **main start** (`flex-start`), where the start of the main 
 - `align-items`: Align along not-flex-direction (cross axis)
 - `align-content`: Space things along main axis
 
-## Some reading on Flex Box
+## Some reading on flexbox
 
-Take 10 minutes to read through these. In particular, look at the Problems Solved by Flexbox.
+Take 10 minutes to read through these. In particular, look at the Problems Solved by flexbox.
 
 As you do this, come up with "Explain Like I'm 5" (ELI5) definitions for these CSS properties:
 
@@ -179,9 +179,9 @@ This is something you know well, even if you don't recognize the term. It descri
 
 Obviously, this layout won't work on tiny screens, unless you really like super-skinny columns. It's common to stack things on top of each other for mobile views to make one single column.
 
-Before flex box, this involved a lot of pushing and shoving with dimensions and positioning. You would essentially have to write two completely separate stylesheets: one for mobile, and one for desktop.
+Before flexbox, this involved a lot of pushing and shoving with dimensions and positioning. You would essentially have to write two completely separate stylesheets: one for mobile, and one for desktop.
 
-With flex box, just change the `flex-direction` for smaller screen sizes, and you're pretty much done!
+With flexbox, just change the `flex-direction` for smaller screen sizes, and you're pretty much done!
 
 ```
 body{
