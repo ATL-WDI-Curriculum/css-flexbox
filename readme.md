@@ -195,9 +195,16 @@ body {
 }
 ```
 
-## Exercise
+## Exercises
 
-https://github.com/ga-dc/hyrule_potion_shop
+* [Hyrule Potion Shop](https://github.com/ATL-WDI-Exercises/hyrule_potion_shop)
+  - Create a flexbox "Holy Grail" layout for existing HTML.
+
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+  - A game where you get frogs to their lilypads -- good practice using flexbox layouts.
+
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+  - Another game for flexbox practice. This one is inspired by tower defense games.
 
 ### ...and that's it.
 
