@@ -199,6 +199,12 @@ body{
 
 https://github.com/ga-dc/hyrule_potion_shop
 
+## For More Practice
+
+* [Flexbox Froggy](http://flexboxfroggy.com)
+* [Flexbox Defense](http://www.flexboxdefense.com)
+
+
 ### ...and that's it.
 
 For the rest of class, please continue to work on your portfolio pages, or the pseudo-selector homework if you haven't done it yet. If you have questions about design, please make use of the instructors!
