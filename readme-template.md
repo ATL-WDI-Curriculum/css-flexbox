@@ -298,11 +298,15 @@ body {
 
 [Example](http://codepen.io/takeradi/pen/MyYqKX)
 
-## You Do: [Hyrule Potion Shop](https://github.com/ga-dc/hyrule_potion_shop) (10 minutes / 1:25)
+## You Do: hyrule_potion_shop (10 minutes / 1:25)
+
+[Hyrule Potion Shop](https://github.com/ga-dc/hyrule_potion_shop)
 
 ## Break (10 minutes / 1:35)
 
-## You Do: [Airbnb](https://github.com/ga-wdi-exercises/css-airbnb) (30 minutes / 2:05)
+## You Do: Airbnb (30 minutes / 2:05)
+
+[Airbnb](https://github.com/ga-wdi-exercises/css-airbnb)
 
 ## Closing / Questions (5 minutes / 2:10)
 

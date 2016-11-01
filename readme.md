@@ -25,9 +25,9 @@ Instead edit the template file and then run 'md-process'.
   * [Recap](#recap)
 * [Break (10 minutes / 1:10)](#break-10-minutes--1:10)
 * [The Holy Grail Layout (5 minutes / 1:15)](#the-holy-grail-layout-5-minutes--1:15)
-* [You Do: [Hyrule Potion Shop](https://github.com/ga-dc/hyrule_potion_shop) (10 minutes / 1:25)](#you-do:-[hyrule-potion-shop]https:githubcomga-dchyrulepotionshop-10-minutes--1:25)
+* [You Do: hyrule_potion_shop (10 minutes / 1:25)](#you-do:-hyrulepotionshop-10-minutes--1:25)
 * [Break (10 minutes / 1:35)](#break-10-minutes--1:35)
-* [You Do: [Airbnb](https://github.com/ga-wdi-exercises/css-airbnb) (30 minutes / 2:05)](#you-do:-[airbnb]https:githubcomga-wdi-exercisescss-airbnb-30-minutes--2:05)
+* [You Do: Airbnb (30 minutes / 2:05)](#you-do:-airbnb-30-minutes--2:05)
 * [Closing / Questions (5 minutes / 2:10)](#closing--questions-5-minutes--2:10)
 * [Homework](#homework)
 * [Resources](#resources)
@@ -329,11 +329,15 @@ body {
 
 [Example](http://codepen.io/takeradi/pen/MyYqKX)
 
-## You Do: [Hyrule Potion Shop](https://github.com/ga-dc/hyrule_potion_shop) (10 minutes / 1:25)
+## You Do: hyrule_potion_shop (10 minutes / 1:25)
+
+[Hyrule Potion Shop](https://github.com/ga-dc/hyrule_potion_shop)
 
 ## Break (10 minutes / 1:35)
 
-## You Do: [Airbnb](https://github.com/ga-wdi-exercises/css-airbnb) (30 minutes / 2:05)
+## You Do: Airbnb (30 minutes / 2:05)
+
+[Airbnb](https://github.com/ga-wdi-exercises/css-airbnb)
 
 ## Closing / Questions (5 minutes / 2:10)
 
