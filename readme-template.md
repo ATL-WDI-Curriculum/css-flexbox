@@ -1,37 +1,6 @@
-<!--
-This file is auto-generated from a 'template.md'
-file using the 'md-process' script.
-Therefore *DO NOT* edit this file directly!
-Instead edit the template file and then run 'md-process'.
--->
-
 # Flexbox
 
-## Table of Contents
-
-* [Screencasts](#screencasts)
-* [Learning Objectives](#learning-objectives)
-* [Framing](#framing)
-* [Problem 1: Vertical Alignment (15 minutes / 0:15)](#problem-1:-vertical-alignment-15-minutes--0:15)
-    * [You Tell Me: What Should I Try?](#you-tell-me:-what-should-i-try?)
-  * [Flexbox to the Rescue](#flexbox-to-the-rescue)
-* [How It Works (10 minutes / 0:10)](#how-it-works-10-minutes--0:10)
-  * [In Summary...](#in-summary)
-* [Problem 2: Make the Footer Stick (10 minutes / 0:35)](#problem-2:-make-the-footer-stick-10-minutes--0:35)
-    * [You Tell Me: What Should I Try?](#you-tell-me:-what-should-i-try?)
-  * [Flexbox to the Rescue](#flexbox-to-the-rescue)
-* [You Do: More Flexbox Properties (25 minutes / 1:00)](#you-do:-more-flexbox-properties-25-minutes--1:00)
-    * [Some Helpful Resources](#some-helpful-resources)
-  * [Recap](#recap)
-* [Break (10 minutes / 1:10)](#break-10-minutes--1:10)
-* [The Holy Grail Layout (5 minutes / 1:15)](#the-holy-grail-layout-5-minutes--1:15)
-* [You Do: [Hyrule Potion Shop](https://github.com/ga-dc/hyrule_potion_shop) (10 minutes / 1:25)](#you-do:-[hyrule-potion-shop]https:githubcomga-dchyrulepotionshop-10-minutes--1:25)
-* [Break (10 minutes / 1:35)](#break-10-minutes--1:35)
-* [You Do: [Airbnb](https://github.com/ga-wdi-exercises/css-airbnb) (30 minutes / 2:05)](#you-do:-[airbnb]https:githubcomga-wdi-exercisescss-airbnb-30-minutes--2:05)
-* [Closing / Questions (5 minutes / 2:10)](#closing--questions-5-minutes--2:10)
-* [Homework](#homework)
-* [Resources](#resources)
-* [For More Practice](#for-more-practice)
+{{TOC}}
 
 ## Screencasts
 - [Part 1](http://youtu.be/wBlBTO7mqoI)
