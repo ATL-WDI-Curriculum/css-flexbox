@@ -349,6 +349,8 @@ body {
 
 ## Resources
 
+* [CSS Flexbox Essentials](https://www.youtube.com/watch?annotation_id=annotation_1083491709&feature=iv&src_vid=H1lREysgdgc&v=G7EIAgfkhmg)
+* [Flexbox Playground](http://codepen.io/enxaneta/full/adLPwv/)
 * [The Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
 * [CSS Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
